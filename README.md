@@ -74,7 +74,7 @@ An **end-to-end data analytics project** focused on understanding customer purch
 
 `Python` `SQL` `PostgreSQL` `Pandas` `NumPy` `Power BI`
 
-🔗 **[https://github.com/shakshipandey22/Customer-Behavior-Sales-Analytics →](#)**
+🔗 https://github.com/shakshipandey22/Customer-Behavior-Sales-Analytics
 
 ---
 
