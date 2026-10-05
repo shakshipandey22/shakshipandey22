@@ -98,7 +98,7 @@ A business-focused **exploratory data analysis project** analyzing Blinkit sales
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-🔗 **[View Blinkit Sales Analysis →](#)**
+🔗 https://github.com/shakshipandey22/blinkit-sales-data-analysis-python
 
 ---
 
@@ -122,7 +122,7 @@ A **relational database management project** designed to demonstrate how a railw
 
 `SQL` `PostgreSQL` `DBMS`
 
-🔗 **[View Railway Reservation System →](#)**
+🔗 https://github.com/shakshipandey22/railway-reservation-portal
 
 ---
 
